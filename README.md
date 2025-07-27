@@ -1,7 +1,6 @@
 📘 README.md
 markdown
-Copy
-Edit
+
 # 🏅 Olympic Biathlon Medal Analysis (1960–2022)
 
 ### ✅ Mini Project – AI/ML Internship  
