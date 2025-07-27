@@ -1,5 +1,4 @@
 📘 README.md
-markdown
 
 # 🏅 Olympic Biathlon Medal Analysis (1960–2022)
 
