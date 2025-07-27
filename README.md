@@ -95,12 +95,3 @@ Let me know if you’d like:
 - Or a presentation summary (PDF/Slides) based on this
 
 You're all set for submission! ✅
-
-
-
-
-
-
-
-
-Ask ChatGPT
